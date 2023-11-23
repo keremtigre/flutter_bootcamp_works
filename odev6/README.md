@@ -1,16 +1,12 @@
-# odev6
+# odev5
 
-A new Flutter project.
+Yemek Sepeti Clone App
 
-## Getting Started
+## Proje Açıklaması
 
-This project is a starting point for a Flutter application.
+This is a YemekSepeti Clone Project.
 
-A few resources to get you started if this is your first Flutter project:
+## Proje Görseli
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="odev6.png" width="350" height="600">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
