@@ -1,12 +1,12 @@
-# odev5
+# odev6
 
 Yemek Sepeti Clone App
 
-## Proje Açıklaması
+## App Details
 
 This is a YemekSepeti Clone Project.
 
-## Proje Görseli
+## App Images
 
 <img src="odev6.png" width="350" height="600">
 
