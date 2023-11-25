@@ -1,12 +1,12 @@
-# odev5
+# odev7
 
-Yemek Sepeti Clone App
+Todo List App
 
-## Proje Açıklaması
+## App Details
 
-This is a YemekSepeti Clone Project.
+This application was built with mvvm architecture and the flutter_bloc library was used as state management. Sqflite was used to store and retrieve data.
 
-## Proje Görseli
+## App Images
 
 <img src="odev7.png" width="350" height="600">
 
